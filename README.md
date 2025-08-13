@@ -1,8 +1,6 @@
 <!-- 🌸 Banner Image -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:da70d6,100:ba55d3&height=200&section=header&text=Hi%20I'm%20Dhivya%20B!&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 
-
-
 <h2 align="center">💻 Software Engineer | Web Developer | MERN Stack Enthusiast</h2>
 
 <p align="center">
@@ -34,7 +32,7 @@
 > Blossom your online flower business 🌼
 
 🛍️ Developed using PHP, MySQL & HTML/CSS  
-💐 Categories: Boquets, Pooja Flowers, Hampers, etc.  
+💐 Categories: Bouquets, Pooja Flowers, Hampers, etc.  
 🔐 Secure Login • Cart System • Contact Page  
 📄 **3+ commits**
 
@@ -52,11 +50,16 @@
 
 ---
 
-### 🛍️ MERN Stack E-Commerce Platform *(In Progress)*
-> Seamless full-stack shopping experience
+### 🛒 [E-commerce Web Application – Spring Boot](https://github.com/Dhivya2718/E-commerce_project_SpringBoot)
+> A complete backend solution for an online store with Spring Boot.
 
-💻 MongoDB, Express, React, Node.js  
-🔐 Authentication, product filters, cart, admin dashboard
+💻 Spring Boot, Java, MySQL, Spring Security, JPA  
+🔐 Role-based authentication for Admin & Users  
+📦 Features:
+- Product, Category, Order management
+- Cart & Checkout system
+- Payment integration ready
+📄 **Full project with API documentation**
 
 ---
 
@@ -65,7 +68,7 @@
 | Domain         | Technologies                          |
 |----------------|----------------------------------------|
 | 🌐 Frontend     | HTML, CSS, JavaScript, React           |
-| 🧪 Backend       | Node.js, Express.js, PHP              |
+| 🧪 Backend       | Node.js, Express.js, PHP, Spring Boot  |
 | 🗄️ Database      | MongoDB, MySQL                        |
 | 🎨 Design        | Figma, Canva, Responsive UI           |
 | ⚙️ Tools         | Git, GitHub, VS Code, Android Studio  |
