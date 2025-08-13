@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Dhivya_image--_Court-removebg-preview.png" alt="Dhivya B" width="200" style="border-radius: 50%;" />
+</p>
+
 <!-- 🌸 Banner Image -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:da70d6,100:ba55d3&height=200&section=header&text=Hi%20I'm%20Dhivya%20B!&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 
