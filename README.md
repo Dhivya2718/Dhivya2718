@@ -75,6 +75,20 @@
 
 ---
 
+### 📝 [Blog REST API – Spring Boot & MySQL](https://github.com/Dhivya2718/Blogging_Application_Backend)
+> A modern backend for a blogging platform with JWT authentication, CRUD operations, and role-based access.
+
+🧠 Built with Spring Boot, Java, MySQL, Hibernate, and JWT  
+⚙️ Features:
+- User registration & JWT-based authentication  
+- CRUD operations for Posts, Comments & Categories  
+- Search, filter, sort, and pagination for posts  
+- File upload support for post images  
+- Role-based access control (Admin/User)  
+- Interactive Swagger API documentation  
+🔁 **Full-featured backend for a blog application**
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
